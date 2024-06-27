@@ -26,8 +26,7 @@
 
 </p>
 '''
-<h3>Where to find me</h3>  
+<h3>Where to find me</h3>
 <p><a href="https://www.instagram.com/red_bumbum/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @red_bumbum</a></p>       
-<p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
-<p><a href="https://github.com/Jeong-Eul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a>
-</p>
+<p><a href="https://github.com/billkim418" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a></p>
+<p><a href ="https://www.linkedin.com/in/hongbum-kim-6746a3211/" target="_blank"><img src="https://github.com/billkim418/billkim418/assets/68594529/357a45ed-3c16-49a2-9286-55226a9e8b22" width = "60"/> Hongbum Kim </a></p>
