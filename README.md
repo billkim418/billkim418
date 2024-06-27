@@ -53,7 +53,8 @@
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
+
+<h3>Hongbum Kim <img src="<a https://www.flaticon.com/free-icons/korea" width="13"/> Korea!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 21°C, <i>clear sky</i></b></br>Today, the sun rises at <b>03:33</b> and sets at <b>22:08</b>.</p>
 <h3>Where to find me</h3>
