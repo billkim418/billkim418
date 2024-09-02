@@ -19,10 +19,6 @@
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter-311C87?style=flat-square&logo=Jupyter&logoColor=white" />
   <img alt="Scikit" src="https://img.shields.io/badge/-Scikit Learn-E10098?style=flat-square&logo=Scikit learn&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="git hub" src="https://img.shields.io/badge/-Github-ea2845?style=flat-square&logo=Github&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-DD0031?style=flat-square&logo=C&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C++-CB3837?style=flat-square&logo=C++&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
 
 </p>
 '''
